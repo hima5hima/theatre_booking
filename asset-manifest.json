@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ba26cf9.css",
+    "main.js": "/static/js/main.1abcde40.js",
+    "static/js/787.f386eaf5.chunk.js": "/static/js/787.f386eaf5.chunk.js",
+    "static/media/theatre_poster1.jpg": "/static/media/theatre_poster1.c7ce48054e2a301b2ed4.jpg",
+    "static/media/salesman.jpg": "/static/media/salesman.221fd7b845e4e2eb0846.jpg",
+    "static/media/Waiting for Godot.jpg": "/static/media/Waiting for Godot.01afd7c9b7dc4f3d399f.jpg",
+    "static/media/frideChicken.jpeg": "/static/media/frideChicken.6846e1d2646da30daa7a.jpeg",
+    "static/media/ricewebp.webp": "/static/media/ricewebp.ed9901f1382ff95aa663.webp",
+    "static/media/noodels.webp": "/static/media/noodels.98e63ba5217020611073.webp",
+    "static/media/Shawarma.jpeg": "/static/media/Shawarma.48bdba14dab878c52370.jpeg",
+    "static/media/meat.jpeg": "/static/media/meat.29a8f621c7da54bbd60b.jpeg",
+    "static/media/A Doll's House.jpg": "/static/media/A Doll's House.a9b3e364b09d7521fd82.jpg",
+    "static/media/burger.jpeg": "/static/media/burger.465f2366b4092dff3389.jpeg",
+    "static/media/cakewaffle.jpg": "/static/media/cakewaffle.2aa6b3623a927df00459.jpg",
+    "static/media/pepsijpeg.jpeg": "/static/media/pepsijpeg.901095e110d72244eb72.jpeg",
+    "static/media/Othello.jpg": "/static/media/Othello.feca3cdd94e8d533aef0.jpg",
+    "static/media/logoRegister.jpg": "/static/media/logoRegister.2002a56edafdde8072f7.jpg",
+    "static/media/tea.webp": "/static/media/tea.b97f29a68ed1e239ef95.webp",
+    "static/media/Hamlet.jpg": "/static/media/Hamlet.394849cd2027dae6d34e.jpg",
+    "static/media/cafe.webp": "/static/media/cafe.c794b35c4b5725a33f1c.webp",
+    "static/media/mango.webp": "/static/media/mango.c3b18b8d135b1ce18502.webp",
+    "static/media/mask-dark-face-theater-logo-symbol-icon-illustration-design-vector.jpg": "/static/media/mask-dark-face-theater-logo-symbol-icon-illustration-design-vector.6eb3025c8d449ffabc4d.jpg",
+    "static/media/donates.jpeg": "/static/media/donates.220a00365c8329bbc80c.jpeg",
+    "static/media/HeroImage.webp": "/static/media/HeroImage.8198ec3a7e8d9f517c7a.webp",
+    "index.html": "/index.html",
+    "main.3ba26cf9.css.map": "/static/css/main.3ba26cf9.css.map",
+    "main.1abcde40.js.map": "/static/js/main.1abcde40.js.map",
+    "787.f386eaf5.chunk.js.map": "/static/js/787.f386eaf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ba26cf9.css",
+    "static/js/main.1abcde40.js"
+  ]
+}
