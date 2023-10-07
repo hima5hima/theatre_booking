@@ -1,0 +1,66 @@
+.cancel-btn{
+    background-color:unset !important;
+}
+.reserve-btn,.Logout{
+    padding: 8px 10px;
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(199, 3, 62);
+    color: white !important;
+    margin: 0 auto;
+    transition: all 0.2s;
+}
+.Logout:hover ,.reserve-btn:hover{
+    background-color: rgb(180, 6, 58);
+}
+
+
+.switch{
+    display: flex;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+}
+#light .switch{
+    background-color: white;
+}
+#dark .switch{
+    background-color: #082032;
+    color: white;
+}
+.label-theme{
+    margin-right: 6px;
+    font-weight: bold;
+}
+
+
+#dark nav{
+    background-color: #2C394B !important;
+}
+#dark .Logout , #dark .title{
+    background-color: #616161;
+}
+#dark .reserve-btn{
+    background-color: #2D4263 !important;
+}
+#dark .cover , #dark .theatre-container{
+    background-color: #121212 !important;
+}
+#dark .footer{
+    background-color: #2C394B !important;
+    color: white !important;
+}
+#dark .card-title{
+    color: #EEEEEE !important;
+}
+#dark .card-body{
+    background-color: #2C3333 !important;
+    color: white !important;
+}
+#dark .screen{
+    background-color: #434443 !important;
+}
+#dark .theatre-container{
+    color: white;
+}

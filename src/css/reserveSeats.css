@@ -1,0 +1,25 @@
+.theatre-container {
+  background: hsl(217, 39%, 75%);
+  height: 100vh;
+  color: rgb(128, 128, 128);
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.theatre-container .screen {
+  background-color: rgba(255, 251, 0, 0.693);
+  width: 40%;
+  height: 200px;
+  margin: 15px 0;
+  transform: rotateX(-48deg);
+  box-shadow: 0 3px 10px rgba(143, 131, 131, 0.5);
+  -webkit-transform: rotateX(-48deg);
+  -moz-transform: rotateX(-48deg);
+  -ms-transform: rotateX(-48deg);
+  -o-transform: rotateX(-48deg);
+}
+.booked {
+  color: yellow;
+}
